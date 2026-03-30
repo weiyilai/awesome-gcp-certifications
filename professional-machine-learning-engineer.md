@@ -52,6 +52,8 @@
 ### Books
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+|  2023 | [Official Google Cloud Certified Professional Machine Learning Engineer Study Guide](https://www.wiley.com/en-us/Official+Google+Cloud+Certified+Professional+Machine+Learning+Engineer+Study+Guide-p-9781119944461) | Mona Mona, Pratap Ramamurthy |
+|  2022 | [Journey to Become a Google Cloud Machine Learning Engineer](https://www.packtpub.com/product/journey-to-become-a-google-cloud-machine-learning-engineer/9781803233727) | Dr. Logan Song |
 |  2020 | [Machine Learning Design Patterns](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/) | Valliappa Lakshmanan, Sara Robinson, Michael Munn |
 
 ### Videos / Sessions
